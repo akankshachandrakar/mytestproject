@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="My Sample Suite">
+
+
+	<test name="test1">
+		<packages>
+			<package name="com.mycompany.test.regression.*" />
+		</packages>
+	</test>
+
+
+</suite>
